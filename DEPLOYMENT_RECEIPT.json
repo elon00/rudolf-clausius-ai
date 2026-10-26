@@ -1,0 +1,14 @@
+{
+  "project": "rudolf-clausius-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "5Yxuqj3b2raGKF7n1DfnsPNiNxzYF9FjPJ7417U2YNy",
+  "vault_account": "8QaaR4ESjvyeFiNgiDPnFw2Zy4xZAN55dGGQZQjmdevS",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3BnVSWDPydM8p7LcQor8xn65JiHRYNaUeq1oEbundx9UXsEKkzaGtrJUhFj1yeSgzbeHFzPifJphWS6hZfFYj7x1",
+  "account_tx": "45u3seXfQkdXFcuhGmibogbYGs1X9rvzw7RTC9zJ6HcDkFysSTvdZgzNb3D1YJNiihYTy7stfL4Em2V8wtr4begd",
+  "mint_tx": "3mzj4USEgtZtZxAyvsgX6z1e3WhKcrSUUNT7kqx8cCSNANcAGPEPDneA2EUgTNUgb247PLSCR3Ks6o7BFtGT78nq",
+  "solana_explorer_mint": "https://explorer.solana.com/address/5Yxuqj3b2raGKF7n1DfnsPNiNxzYF9FjPJ7417U2YNy?cluster=devnet",
+  "timestamp": "2026-10-26 16:56:51 UTC"
+}
